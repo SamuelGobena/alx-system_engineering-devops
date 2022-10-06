@@ -1,1 +1,1 @@
-script that sets the permission: Owner: no permission at all, Group: no permission at all, Other users: all the permissions
+script that sets the mode of the file
