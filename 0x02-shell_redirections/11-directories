@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -not -name "_" | wc -l
+head -n 3 iacta | tail -n 1
